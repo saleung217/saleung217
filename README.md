@@ -1,4 +1,7 @@
 ## Hi there 👋
+-🖥️ I'm a beginner programmer\
+-🌱 I’m currently learning Python, and will learn R after\
+-🧬 I'm looking to pursue a career in Bioinformatics\
 
 <!--
 **saleung217/saleung217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
