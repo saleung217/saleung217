@@ -1,6 +1,6 @@
 ## Hi there 👋
--🖥️ I'm a beginner programmer\
--🌱 I’m currently learning Python, and will learn R after\
+-🌱 I'm a Year 4 student majoring in Biochemistry and Cell Biology\
+-🖥️ I'm a beginner programmer (Python, R)\
 -🧬 I'm looking to pursue a career in Bioinformatics
 
 <!--
